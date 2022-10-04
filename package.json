@@ -1,0 +1,16 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gityosan/zenn.git",
+  "author": "Gityosan <ymo6190@docomo.ne.jp>",
+  "license": "MIT",
+  "scripts": {
+    "z": "zenn preview",
+    "zna": "zenn new:article",
+    "znb": "zenn new:book"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.128"
+  }
+}
