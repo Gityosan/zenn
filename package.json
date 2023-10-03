@@ -1,16 +1,19 @@
 {
   "name": "zenn",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/Gityosan/zenn.git",
-  "author": "Gityosan <ymo6190@docomo.ne.jp>",
+  "author": "Gityosan",
   "license": "MIT",
   "scripts": {
     "z": "zenn preview",
     "zna": "zenn new:article",
     "znb": "zenn new:book"
   },
-  "dependencies": {
-    "zenn-cli": "^0.1.128"
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.1",
+    "prettier": "^3.0.3",
+    "zenn-cli": "^0.1.146"
   }
 }
