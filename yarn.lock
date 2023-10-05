@@ -359,7 +359,7 @@ yaml@2.3.1:
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.3.1.tgz#02fe0975d23cd441242aa7204e09fc28ac2ac33b"
   integrity sha512-2eHWfjaoXgTBC2jNM1LRef62VQa0umtvRiDSk6HSzW7RvS5YtkabJrwYLLEKWBc8a5U2PTSCs+dJjUTJdlHsWQ==
 
-zenn-cli@^0.1.146:
-  version "0.1.146"
-  resolved "https://registry.yarnpkg.com/zenn-cli/-/zenn-cli-0.1.146.tgz#8a1d2c26add5348bef6be7919d1e8e31c999fe89"
-  integrity sha512-IjxTGvaatNpaTl/3spegOqSIOZOZG+QAllbQjlsgS3yxKRWZZ4dl2XRpTpaI5Qg9E4NCuX5EZ9+SM+9cxdzSgQ==
+zenn-cli@^0.1.147:
+  version "0.1.147"
+  resolved "https://registry.yarnpkg.com/zenn-cli/-/zenn-cli-0.1.147.tgz#52ad816b2ac0b479c475af4c82d0c63ba0077a26"
+  integrity sha512-4HKDyk357aIFZnii+Zkkq82Q0Q4uRD4+7zS/u8edwxPea/eeS6W4NBorPyloUzaFI/Rxe0DLr4/aRFc0hHG0ug==
