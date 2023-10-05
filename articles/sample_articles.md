@@ -2,14 +2,15 @@
 title: 'sample'
 emoji: '🕌'
 type: 'tech'
-topics: ['','','']
+topics: ['', '', '']
 published: false
 ---
 
 # この記事は
+
 **前提条件**
-- 
-:::details a
+
+:::details
 
 :::
 
