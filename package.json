@@ -12,6 +12,6 @@
   "dependencies": {},
   "devDependencies": {
     "prettier": "^3.0.3",
-    "zenn-cli": "^0.1.147"
+    "zenn-cli": "^0.1.148"
   }
 }
